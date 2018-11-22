@@ -1,0 +1,14 @@
+1540292168607	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WANGWE~1\\AppData\\Local\\Temp\\rust_mozprofile.Dqh1cNl6XgDF"
+1540292172626	Marionette	INFO	Listening on port 49711
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1540292179936	Marionette	INFO	Ceased listening
+1540293027760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WANGWE~1\\AppData\\Local\\Temp\\rust_mozprofile.ZG3mb1jfBKhh"
+1540293031052	Marionette	INFO	Listening on port 51369
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1540293050864	Marionette	INFO	Ceased listening
+1540293171489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WANGWE~1\\AppData\\Local\\Temp\\rust_mozprofile.g2XlIyJ2IXA6"
+1540293174920	Marionette	INFO	Listening on port 51627
+1540293755394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WANGWE~1\\AppData\\Local\\Temp\\rust_mozprofile.ZXZN7UpWnxFh"
+1540293758905	Marionette	INFO	Listening on port 53177
